@@ -1,1 +1,7 @@
 mod greatest_common_divisor_of_strings;
+mod predict_party_victory;
+mod find_the_difference_of_two_arrays;
+mod maximum_level_sum_of_a_binary_tree;
+mod maximum_twin_sum_of_a_linked_list;
+mod total_cost_to_hire_k_workers;
+mod uncrossed_lines;
