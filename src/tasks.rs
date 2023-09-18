@@ -8,3 +8,4 @@ mod uncrossed_lines;
 mod find_longest_chain;
 mod find_number_of_lis;
 mod minimum_delete_sum;
+mod longest_arithmetic_subsequence_of_given_difference;
