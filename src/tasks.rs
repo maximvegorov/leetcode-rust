@@ -5,3 +5,6 @@ mod maximum_level_sum_of_a_binary_tree;
 mod maximum_twin_sum_of_a_linked_list;
 mod total_cost_to_hire_k_workers;
 mod uncrossed_lines;
+mod find_longest_chain;
+mod find_number_of_lis;
+mod minimum_delete_sum;
